@@ -9,9 +9,14 @@ How to play : -
 4. when ever you forgot the colour sequence and click on wrong colour the will terminate.
 5. go to step 1.
 
-Example :  first blinks Yellow -> click on yellow
+Example :  
+          
+           first blinks Yellow -> click on yellow
+
            then blinks red     -> click on yellow then red
+           
            then  blinks blue    -> click on yellow then red then blue
+           
            and so on.
            
  MY max score is till level 12 . Try it and beat my score.           
